@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;StaticPropertyHolder.java&apos; to &apos;SHCommon/src/main/java/com.nse.common.util&apos;&#x0D;&#x0A;- Original project: &apos;SHCommon-12&apos;&#x0D;&#x0A;- Destination element: &apos;SHCommon/src/main/java/com.nse.common.util&apos;&#x0D;&#x0A;- Original element: &apos;com.nse.common.util.StaticPropertyHolder.java&apos;" description="Copy compilation unit" destination="=SHCommon/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nse.common.util" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nse.common.util{StaticPropertyHolder.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1721749469565" units="1" version="1.0"/>
+</session>

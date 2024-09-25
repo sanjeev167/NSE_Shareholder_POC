@@ -1,0 +1,2 @@
+2024-08-02 19:24:46.398  INFO--- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 199 class path changes (0 additions, 0 deletions, 199 modifications)
+2024-08-02 19:24:46.659  INFO--- [Thread-761] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'ApiService'

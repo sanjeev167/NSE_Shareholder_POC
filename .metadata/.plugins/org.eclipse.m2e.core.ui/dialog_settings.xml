@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="org.ShareHolding"/>
+		</list>
+		<list key="groupId">
+			<item value="com.SHRoot"/>
+		</list>
+		<list key="artifactId">
+			<item value="ShareHolding"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.0.0"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.ShareHolding"/>
+			<item value="com.SHRoot"/>
+			<item value="com.SHCommon"/>
+			<item value="com.SHReport"/>
+			<item value="com.SHTransfer"/>
+			<item value="com.SHVerifier"/>
+			<item value="com.SHRegulatory"/>
+			<item value="com.SHMaster"/>
+		</list>
+		<list key="name">
+			<item value="ShareHolding"/>
+			<item value="SHCommon"/>
+			<item value="SHReport"/>
+			<item value="SHTransfer"/>
+			<item value="SHVerifier"/>
+			<item value="SHRegulatory"/>
+			<item value="SHMaster"/>
+			<item value="SHRoot"/>
+		</list>
+		<list key="artifactId">
+			<item value="ShareHolding"/>
+			<item value="SHRoot"/>
+			<item value="SHCommon"/>
+			<item value="SHReport"/>
+			<item value="SHTransfer"/>
+			<item value="SHVerifier"/>
+			<item value="SHRegulatory"/>
+			<item value="SHMaster"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.0.0"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="ShareHolding"/>
+			<item value="SHCommon"/>
+			<item value="SHReport"/>
+			<item value="SHTransfer"/>
+			<item value="SHVerifier"/>
+			<item value="SHRegulatory"/>
+			<item value="SHMaster"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

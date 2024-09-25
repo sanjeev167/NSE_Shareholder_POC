@@ -1,0 +1,48 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.SHRoot</groupId>
+		<artifactId>SHRoot</artifactId>
+		<version>0.0.0.0</version>
+	</parent>
+	<groupId>com.ShareHolding</groupId>
+	<artifactId>ShareHolding</artifactId>
+	<name>ShareHolding</name>
+	<description>This is the main project which will consume all the children projects</description>
+	<properties>
+		<start-class>com.nse.ShareHoldingApplication</start-class>
+		<timestamp>${maven.build.timestamp}</timestamp>
+        <maven.build.timestamp.format>dd-MM-yyyy-HH:mm</maven.build.timestamp.format>
+	</properties>
+    <dependencies>
+				
+		<dependency>
+			<groupId>com.SHMaster</groupId>
+			<artifactId>SHMaster</artifactId>
+			<version>0.0.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.SHTransfer</groupId>
+			<artifactId>SHTransfer</artifactId>
+			<version>0.0.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.SHVerifier</groupId>
+			<artifactId>SHVerifier</artifactId>
+			<version>0.0.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.SHRegulatory</groupId>
+			<artifactId>SHRegulatory</artifactId>
+			<version>0.0.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.SHReport</groupId>
+			<artifactId>SHReport</artifactId>
+			<version>0.0.0.0</version>
+		</dependency>
+		
+	</dependencies>
+</project>
